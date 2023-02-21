@@ -1,0 +1,7 @@
+Open-closed principle :- it states that a class should be  open for extension and close to modification.
+ modification mean changing in existed code and extension mean add new functionality.
+
+
+
+ 1.There is a famous dictation that says that we need to prefer composition over inheritance, and this is really important. There are some issues when we decide to use inheritance, the first is that we're breaking the OOP foundation of encapsulation, because the children knows everything about the parent
+ 2.The second is the static inheritance, we can't change the behavior of the children even in execution-time, we need to change the codebase itself to be able to change the behavior, breaking the Open-Closed Principle.  

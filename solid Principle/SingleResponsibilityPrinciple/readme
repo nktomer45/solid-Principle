@@ -1,0 +1,3 @@
+
+Single Responsibilty principle:- it states that the class do one thing only . you should one reason to change(implementation) in the class.
+example :- A class have only container  one type of logic like its class have api log only or class have only service logic only.
